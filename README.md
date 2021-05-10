@@ -24,7 +24,7 @@ Please send DM at any time! I am looking forward to interacting with people in t
 
 Ebi, which is the part of my name actually means shrimp in Japanese
 
-# Skills
+# Skills(開発経験のあるもののみ)
 
 ## 言語系
 <p><img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&amp;style=flat" height="30"> <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&amp;style=flat" height="30"> <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&amp;style=flat" height="30"> <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&amp;style=flat" height="30"></p>
