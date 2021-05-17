@@ -11,7 +11,7 @@ T4-INDUSTRIES' internship to launch a brand new Instagram marketing application 
 
 # 🌱 I’m currently learning ...
 
-Laravel 8.x, Vue.js 3.x, AWS ECS
+Laravel 8.x, Streamlit and AWS ECS Fargate
 Also, I'm strongly interested in Golang, Typescript and Python :)
 
 # 📫 How to reach me: ...
