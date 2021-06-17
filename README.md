@@ -68,7 +68,6 @@ Ebi, which is the part of my name actually means shrimp in Japanese
  </a>
 
 # Qualifications
-<div style="height=30px width=30px">
-  ![01_mark](https://user-images.githubusercontent.com/74973675/122341110-1203cd00-cf7e-11eb-84c0-18371438d4a5.png)
- </div>
+![02_markset](https://user-images.githubusercontent.com/74973675/122341649-af5f0100-cf7e-11eb-9f4a-7f40174b3981.png)
+
 ITパスポート試験 (2021/5/19取得)
