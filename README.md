@@ -6,11 +6,11 @@
 B向けのマーケティングサービスにおける新規開発・保守運用
 
 ### 使用技術
-- Docker,PHP8.0,Laravel8,Vue.js,MySQL8.0,REST_API,Github_Actions,Facebook_GraphAPI
+- Docker,PHP8.0,Laravel8,Vue.js,MySQL8.0,REST_API,Github_Actions
 - AWSは以下の通り CloudWatchLogs/ALB/ECS/Fargate/ECR/CodePipeline/S3/Cloudfront/EC2/RDS/VPC/CloudTrail/EventBridge
 
 ### 担当
-バックエンド(一部フロントエンドも)エンジニアの1メンバーとして初期からプロジェクトに入り、Facebook Graph  APIその他の技術調査、画面設計、DB設計、Vue.jsによるフロントエンドの実装の一部、Laravelによるバックエンドの実装、AWSの各種サービスを用いた運用等を担当。また、社会人エンジニアの方とのチーム開発であった。具体的には下記。
+バックエンド(一部フロントエンドも)エンジニアの1メンバーとして初期からプロジェクトに入り、外部APIやその他の技術調査、画面設計、DB設計、Vue.jsによるフロントエンドの実装の一部、Laravelによるバックエンドの実装、AWSの各種サービスを用いた運用等を担当。また、社会人エンジニアの方とのチーム開発であった。具体的には下記。
 
 - Laravelを用いたCRUDなどの基本的なAPI開発
 - 各種外部APIの調査
