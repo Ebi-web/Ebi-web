@@ -1,28 +1,32 @@
-### Hi there 👋
+# インターン
 
-# IAM...🇯🇵
-I'm **Ebi-web** who is a student of the Cyber University in Japan.
-I want to explore all robust Web technologies!! 
+## T4INDUSTRIES(2021年~2022年)
 
+### 概要
+B向けのマーケティングサービスにおける新規開発・保守運用
 
-# 🔭 I’m currently working on ...
+### 使用技術
+- Docker,PHP8.0,Laravel8,Vue.js,MySQL8.0,REST_API,Github_Actions,Facebook_GraphAPI
+- AWSは以下の通り CloudWatchLogs/ALB/ECS/Fargate/ECR/CodePipeline/S3/Cloudfront/EC2/RDS/VPC/CloudTrail/EventBridge
 
-T4-INDUSTRIES' internship to launch a brand new Instagram marketing application for businesses.
+### 担当
+バックエンド(一部フロントエンドも)エンジニアの1メンバーとして初期からプロジェクトに入り、Facebook Graph  APIその他の技術調査、画面設計、DB設計、Vue.jsによるフロントエンドの実装の一部、Laravelによるバックエンドの実装、AWSの各種サービスを用いた運用等を担当。また、社会人エンジニアの方とのチーム開発であった。具体的には下記。
 
-# 🌱 I’m currently learning ...
+- Laravelを用いたCRUDなどの基本的なAPI開発
+- 各種外部APIの調査
+- 外部APIを利用したキーワード検知機能を持つDM自動返信基盤の構築と高速化
+- Laravel-enumによる拡張性を考慮した権限管理機能の実装
+- Git-flowイメージに基づいたGitブランチ管理
+- 管理ドメインごとに分けたDockerコンテナの設計
+- local,dev,stg,prod環境を切り分けた上での運用
+- ECS Fargate, EventBridge, CloudTrailを用いたDM配信基盤の構築と証跡管理
+- Github ActionsとCodePipeline,ECS,ECRを用いたCI/CDの運用
+- supervisorを用いたDM配信基盤の安定化
+- AWS Budegt Explorerに基づいたコスト最適化
 
-GraphQL, Rails, AWS Serverless Architecture.
-Also, I'm strongly interested in Golang, Nuxt.js and Terraform!
-
-# 📫 How to reach me: ...
-<a href='https://twitter.com/eng_toshiaki'>
-<big><img src="https://img.shields.io/badge/contact%20me!-Twitter-blue.svg?logo=twitter&style=popout"></big><br>
-  </a>
-Please send DM at any time! I am looking forward to interacting with people in this community.
-
-# ⚡ Fun fact: ...
-
-Ebi, which is the part of my name actually means shrimp in Japanese
+### 工夫・取り組み
+本格的な開発の現場はこれが初めてであり、あらゆる技術が初体験だった。特にGithub Actions, CodePipelineとECS Fargateを用いたCI/CDに関しては、Docker自体初めてな上に難度が高く情報も少なかったが、各種書籍やネット情報を地道に調査して運用に必要な知識を素早く習得した。
+また、InstagramのAPIのドキュメントを自主的にまとめて、開発途中で得られた知見を付け加えた文書を社内に公開し新機能の立案に大きく貢献した。
 
 # Skills(開発経験のあるもののみ)
 
@@ -42,7 +46,6 @@ Ebi, which is the part of my name actually means shrimp in Japanese
 ## OS
 - Linux
 - Windows
-- Mac (Big Sur)
 
 ## ミドルウェア
 - Apache
@@ -69,6 +72,13 @@ Ebi, which is the part of my name actually means shrimp in Japanese
 - DynamoDB
 - IAM
 - VPC
+- CloudTrail
+- S3
+- CloudFront
+- CloudWatchLogs
+- ECR
+- CodePipeline
+- EventBridge
 
 ### Firebase
 - Firebase Auth
@@ -83,3 +93,4 @@ Ebi, which is the part of my name actually means shrimp in Japanese
 # Qualifications
 - ITパスポート試験 (2021/5/19取得)
 - 基本情報技術者
+- TOEFL iBT 93点
