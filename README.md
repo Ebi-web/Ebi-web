@@ -8,7 +8,7 @@ merpayで用いられている様々な品質保証技術の基本や開発組�
 ## T4INDUSTRIES(2021年~2022年)
 
 ### 概要
-B向けのマーケティングサービスにおける新規開発・保守運用
+B向けの日本初・マーケティングサービスにおける新規開発・保守運用
 
 ### 使用技術
 - Docker,PHP8.0,Laravel8,Vue.js,MySQL8.0,REST_API,Github_Actions
