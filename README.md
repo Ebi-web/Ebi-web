@@ -49,7 +49,12 @@ B向けの日本初・マーケティングサービスにおける新規開発�
 - Rails
 - GraphQL
 - Vue.js
-- React(個人開発にて使用予定)
+- React(個人開発にて使用中)
+- T(個人開発にて使用中)
+- React(個人開発にて使用中)
+- Tailwind CSS(個人開発にて使用中)
+- Jest(個人開発にて使用中)
+- Eslint(個人開発にて使用中)
 - Bootstrap
 
 ## OS
@@ -89,6 +94,8 @@ B向けの日本初・マーケティングサービスにおける新規開発�
 - ECR
 - CodePipeline
 - EventBridge
+### 他
+- Github Actions(CI)
 
 ### Firebase
 - Firebase Auth
