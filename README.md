@@ -1,27 +1,70 @@
-# インターン
+# Curriculum Vitae
 
-## Sprinters:パーソルキャリア (2022年6月)
+## 基本情報
+
+|key|value|
+|-------|--------|
+|名前|海老澤俊明|
+|居住地|埼玉県桶川市|
+|Twitter|[@eng_toshiaki](https://twitter.com/eng_toshiaki)|
+|Qiita|[@EbiTT](https://qiita.com/EbiTT)|
+|Portfolio|[Google Slide](https://docs.google.com/presentation/d/1EE7jD9pdZupcJr4AZowyyCcpztgFQ-a3gUj2hbYslv8/edit?usp=sharing)|
+|英語力|TOEFL iBT93点(英検準１級相当)|
+|好きな英語|イギリス英語🇬🇧|
+|資格|応用情報技術者|
+
+## React部屋【Next.js/TypeScript】(2022年5月~)
 
 ### 概要
-パーソルの開発組織で実際に使われている「確かなニーズのある開発事業を最速で立ち上げユーザーテストまで行う」手法である[デザインスプリント](https://www.i3design.jp/in-pocket/8958) の実践。この中でチームリーダーを務め、それに徹することを意識し以下のような点でチームに貢献した。
+タスクの依存関係も登録できるタスク管理アプリを学生チームで開発したもの
+
+### 使用技術
+- Docker,TypeScript,React,Redux,Next.js,Mantine,EsLint,prettier,husky,vercel,Github Actions
+- 今後使用予定: Golang,GraphQL,ECS Fargate,CodePipeline,Terraform
+
+### 担当
+チームリーダー兼エンジニアとして、要件定義、技術調査・選定、開発環境構築、画面設計、Reactによるフロントエンドの実装の一部を担当。具体的には下記。
+
+- Next.js+TypeScript+Functional Componentを使ったフロントエンドの実装
+- Mantine, FlowbiteなどのUIライブラリの選定とUI作成
+- Redux,Jotai,Recoilなどの状態管理ライブラリの調査と選定
+- Docker, docker-composeを使った開発環境の構築
+- タスク管理アプリとしての新規性を担保した要件定義
+
+### 工夫・取り組み
+ReactとTypeScriptでの開発はいずれも初体験でありReact Hooksの理解はハードルが高かったが公式ドキュメントやUdemyなどを地道に調べベストプラクティスを素早く習得した。また、テーマがタスク管理アプリということでいかに新規性を出すかに腐心した結果、「タスクの親子関係を踏まえて家族単位でタスクを登録できること」「タスク全体に対する現在の達成度やスケジュール感を把握しやすくすること」という2点を採択し要件定義を行った。加えて普段はバックエンドがメインのためフロントエンドのUI作成作業は慣れなかったが、Mantineによる直感的なUIを実現。
+
+## Sprinters:パーソルキャリア【企画開発】 (2022年6月)
+
+### 概要
+パーソルの開発組織で実際に使われている「確かなニーズのある開発事業を5日で立ち上げユーザーテストまで行う」手法である[デザインスプリント](https://www.i3design.jp/in-pocket/8958) の実践とUpper Managementへの発表。
+
+### 担当・取り組み
+この中でチームリーダーを務め、それに徹することを意識し以下のような点でチームに貢献した。
 
 - 議論が迷走しないよう事前に議論の進め方(全体像)を共有してから議論を始める
-- メンバーの強みが埋もれないよう、発言の少ないメンバーに意見を求める
+- メンバーの強みが埋もれないよう、発言の少ないメンバーに積極的に意見を求める
 - 分業できるところは積極的に分業して作業効率を上げる
 
-## merpay QA Training Camp(2022年5月)
+### 利用ツール
+Miro, Figma(プロトタイプ作成に使用)
+
+## merpay QA Training Camp【品質保証】(2022年5月)
 
 ### 概要
-merpayで用いられている様々な品質保証技術の基本や開発組織作りに関する講義やその実践。この中で組み合わせテストケース数を統計的に10%まで削減するPICTを学習し、他の開発で実践して効率的なテストの実行に貢献した。
+merpayで用いられている様々な品質保証技術の基本や開発組織作りに関する講義やその実践。
 
-## T4INDUSTRIES(2021年~2022年)
+### 工夫・取り組み
+この中で組み合わせテストケース数を統計的に10%まで削減するPICTを学習した。他の開発においてテストケースの組み合わせが膨大になってしまう箇所にこれを適用し効率的なテストの実行に貢献した。
+
+## T4INDUSTRIES【PHP/Laravel/Vue.js/Fargate】(2021年~2022年)
 
 ### 概要
-B向けの日本初・マーケティングサービスにおける新規開発・保守運用
+B向けの日本初SNSマーケティングサービスにおける新規開発・保守運用
 サービスサイト: https://rox-message.jp/
 
 ### 使用技術
-- Docker,PHP8.0,Laravel8,Vue.js,MySQL8.0,REST_API,Github_Actions
+- Docker,PHP8.0,Laravel8,Vue.js,MySQL8.0,REST API,Github Actions
 - AWSは以下の通り CloudWatchLogs/ALB/ECS/Fargate/ECR/CodePipeline/S3/Cloudfront/EC2/RDS/VPC/CloudTrail/EventBridge
 
 ### 担当
@@ -107,6 +150,7 @@ B向けの日本初・マーケティングサービスにおける新規開発�
 - EventBridge
 ### 他
 - Github Actions(CI)
+- vercel
 
 ### Firebase
 - Firebase Auth
@@ -117,9 +161,3 @@ B向けの日本初・マーケティングサービスにおける新規開発�
 <a href='https://github.com/anuraghazra/github-readme-stats'>
   <img align='center' src='https://github-readme-stats.vercel.app/api?username=Ebi-web&count_private=true&show_icons=true&theme=tokyonight'>
  </a>
-
-# Qualifications
-- ITパスポート試験 (2021/5/19取得)
-- 基本情報技術者
-- 応用情報技術者(2022/6取得)
-- TOEFL iBT 93点
