@@ -25,23 +25,27 @@ React,Swagger,Golang,PostgreSQL,Makefile(他追加予定)
 
 (追加予定)
 
-## React部屋【Next.js/TypeScript】(2022年5月~)
+## React部屋【Next.js/TypeScript/Go/GraphQL】(2022年5月~)
 
 ### 概要
 タスクの依存関係も登録できるタスク管理アプリを学生チームで開発したもの
 
 ### 使用技術
-- Docker,TypeScript,React,Redux,Next.js,Mantine,EsLint,prettier,husky,vercel,Github Actions
+- Docker,TypeScript,React,Redux,Next.js,Mantine,EsLint,prettier,husky,vercel,Github Actions,flyway
 - Golang,GraphQL,Apollo Client,AWS App Runner, PlanetScale
 
 ### 担当
-チームリーダー兼エンジニアとして、要件定義、技術調査・選定、開発環境構築、画面設計、Reactによるフロントエンドの実装の一部を担当。具体的には下記。
+チームリーダー兼エンジニアとして、要件定義、技術調査・選定、開発環境構築、画面設計、DB・コンテナ設計、フロントエンド・バックエンド実装の一部を担当。具体的には下記。
 
 - Next.js+TypeScript+Functional Componentを使ったフロントエンドの実装
 - Mantine, FlowbiteなどのUIライブラリの選定とUI作成
 - Redux,Jotai,Recoilなどの状態管理ライブラリの調査と選定
 - Docker, docker-composeを使った開発環境の構築
+- 1コマンド1コンテナを意識したコンテナ設計
 - タスク管理アプリとしての新規性を担保した要件定義
+- flywayによるマイグレーション管理の導入
+- GraphQLの導入とスキーマ設計
+- GolangとGraphQLによるquery,mutationsの実装
 
 ### 工夫・取り組み
 ReactとTypeScriptでの開発はいずれも初体験でありReact Hooksの理解はハードルが高かったが公式ドキュメントやUdemyなどを地道に調べベストプラクティスを素早く習得した。また、テーマがタスク管理アプリということでいかに新規性を出すかに腐心した結果、「タスクの親子関係を踏まえて家族単位でタスクを登録できること」「タスク全体に対する現在の達成度やスケジュール感を把握しやすくすること」という2点を採択し要件定義を行った。加えて普段はバックエンドがメインのためフロントエンドのUI作成作業は慣れなかったが、Mantineによる直感的なUIを実現。
