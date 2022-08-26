@@ -16,14 +16,23 @@
 ## CARTA HOLDINGS: Treasure【開発/現在参加中】(2022年8月)
 
 ### 概要
-React,Goの講義の後、チーム開発と成果物の発表を行うもの。
+React,Go,DBモデリングなどの講義の後、「価値のあるプロダクトを創るための」チーム開発と成果物の発表を行うもの。
 
-### 使用技術
-React,Swagger,Golang,PostgreSQL,Makefile(他追加予定)
+### 使用技術(実際に多く触った技術のみを記載)
+React,MantineUI,Swagger,Golang,PostgreSQL,Redis,make,Elasticache,WebSocket,Skyway
 
 ### チーム開発での担当・工夫・学んだこと
 
-(追加予定)
+担当
+- Redisの開発環境,Elasticache構築
+- Go Routineを使ったRedisキューのポーリングの実装
+- サービス全体の構成図を書く
+- 直感的,統一されたUIになるように改善
+
+学んだこと
+- やるべきことをIssueに書いておくことで後から別の人がIssueに参加できるようにする
+- 自分では当たり前だと思っていることでも共有することで一気にチームの議論が活発になる
+<img width="858" alt="スクリーンショット 2022-08-26 21 02 06" src="https://user-images.githubusercontent.com/74973675/186899266-23c5ee8f-ba41-4097-815d-b071f89dae86.png">
 
 ## React部屋【Next.js/TypeScript/Go/GraphQL】(2022年5月~)
 
