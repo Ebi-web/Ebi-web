@@ -45,6 +45,8 @@ React,MantineUI,Swagger,Golang,PostgreSQL,Redis,make,Elasticache,WebSocket,Skywa
 ### 概要
 タスクの依存関係も登録できるタスク管理アプリを学生チームで開発したもの
 
+[資料はこちら](https://docs.google.com/presentation/d/1sYRh_L1x_SBRMjc6-edFpL8jKZp0RXfXxYditUjzq4Y/edit?usp=sharing)
+
 ### 使用技術
 - Docker,TypeScript,React,Redux,Next.js,Mantine,EsLint,prettier,husky,vercel,Github Actions,flyway
 - Golang,GraphQL,Apollo Client,AWS App Runner, PlanetScale
