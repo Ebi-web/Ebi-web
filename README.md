@@ -44,6 +44,7 @@ React,MantineUI,Swagger,Golang,PostgreSQL,Redis,make,Elasticache,WebSocket,Skywa
 
 ### 概要
 タスクの依存関係も登録できるタスク管理アプリを学生チームで開発したもの
+技育展2022「世の中を便利にする」部門登壇作品
 
 [資料はこちら](https://docs.google.com/presentation/d/1sYRh_L1x_SBRMjc6-edFpL8jKZp0RXfXxYditUjzq4Y/edit?usp=sharing)
 
