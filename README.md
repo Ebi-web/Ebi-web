@@ -56,7 +56,7 @@ React,MantineUI,Swagger,Golang,PostgreSQL,Redis,make,Elasticache,WebSocket,Skywa
 
 ### 使用技術
 - Docker,TypeScript,React,Redux,Next.js,Mantine,EsLint,prettier,husky,vercel,Github Actions,flyway
-- Golang,GraphQL,Apollo Client,AWS App Runner, PlanetScale
+- Golang,GraphQL
 
 ### 担当
 チームリーダー兼エンジニアとして、要件定義、技術調査・選定、開発環境構築、画面設計、DB・コンテナ設計、フロントエンド・バックエンド実装の一部を担当。具体的には下記。
