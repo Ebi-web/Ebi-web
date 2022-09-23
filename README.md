@@ -100,6 +100,7 @@ merpayで用いられている様々な品質保証技術の基本や開発組�
 ## Campus Dog【Python/Streamlit】(2021年)
 
 概要: 東北大学理学部に特化した大学公式Webサイトの統合型スクレイパー。**技育展2021「はじめてのアウトプット」部門登壇作品。**
+
 [発表資料はこちら](https://docs.google.com/presentation/d/13qnzmxZJnQ5qr3bWJoHoWEcl0kV7pB3Ua2aJrQvavX8/edit?usp=sharing)
 
 開発背景: 「大学からのお知らせを確認するために毎日大学Webサイトをいくつも巡回するのは面倒」という友人の悩みから、Pythonのスクレイピングとの相性の良さを感じ開発に着手。
