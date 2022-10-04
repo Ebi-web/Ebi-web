@@ -13,7 +13,14 @@
 |好きな英語|イギリス英語🇬🇧|
 |資格|応用情報技術者|
 
-## Leverages(2022年9月)
+## ゆめみ(2022年9月)【クラウドアーキテクチャ・構築】
+
+### 概要
+
+現在参加中で0からのAWS環境でのCI/CD構築。
+Github ActionsとAWS CodePipelineを連携させ、ECS on FargateでのCI/CDを実現しつつDockleとTrivyでのセキュリティ対策も行う。
+
+## Leverages(2022年9月)【パフォーマンスチューニング】
 
 ### 概要
 
