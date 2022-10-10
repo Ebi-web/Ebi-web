@@ -25,7 +25,7 @@ Github ActionsとAWS CodePipelineを連携させ、ECS on FargateでのCI/CDを�
 ### 概要
 
 エンジニア向け質疑応答サイト[teratail](https://teratail.com)のパフォーマンス改善
-トップページの表示速度を50%程度改善した
+実働6日間でトップページの表示速度を50%程度改善した
 
 ### 取り組んだこと
 
