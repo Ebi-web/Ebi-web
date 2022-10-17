@@ -17,8 +17,13 @@
 
 ### 概要
 
-現在参加中で0からのAWS環境でのCI/CD構築。
-Github ActionsとAWS CodePipelineを連携させ、ECS on FargateでのCI/CDを実現しつつDockleとTrivyでのセキュリティ対策も行う。
+0からのAWS環境でのCI/CD構築。
+AWS CodePipelineをECS on Fargateと連携させCI/CDを実現しつつDockleとTrivyでのセキュリティ対策も行った。
+
+### 構成図
+
+![スクリーンショット 2022-10-17 22 11 22](https://user-images.githubusercontent.com/74973675/196185801-5b187046-6126-41cf-a25d-db23f25c159e.png)
+
 
 ## Leverages(2022年9月)【パフォーマンスチューニング】
 
