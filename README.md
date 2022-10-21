@@ -244,6 +244,7 @@ B向けの日本初SNSマーケティングサービスにおける新規開発�
 - Cloud Build
 - Cloud Deploy
 - Container Registry
+- Secret Manager
 
 ### 他
 - Github Actions(CI)
