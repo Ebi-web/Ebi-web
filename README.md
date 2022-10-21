@@ -229,8 +229,12 @@ B向けの日本初SNSマーケティングサービスにおける新規開発�
 - CloudFront
 - CloudWatchLogs
 - ECR
-- CodePipeline
+- WAF
+- Parameter Store
+- Secrets Manager
+- CodePipeline(CodeCommit,CodeBuild,CodeDeploy)
 - EventBridge
+- Cloud9
 
 ### GCP
 - Cloud Run
@@ -239,6 +243,9 @@ B向けの日本初SNSマーケティングサービスにおける新規開発�
 ### 他
 - Github Actions(CI)
 - vercel/Aiven
+- dockle
+- Trivy
+- flyway
 
 ### Firebase
 - Firebase Auth
