@@ -241,6 +241,9 @@ B向けの日本初SNSマーケティングサービスにおける新規開発�
 ### GCP
 - Cloud Run
 - Cloud IAM
+- Cloud Build
+- Cloud Deploy
+- Container Registry
 
 ### 他
 - Github Actions(CI)
