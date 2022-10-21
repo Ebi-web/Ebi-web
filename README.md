@@ -193,6 +193,7 @@ B向けの日本初SNSマーケティングサービスにおける新規開発�
 - husky
 - Bootstrap
 - PHPUnit
+- Node.js
 
 ## OS
 - Linux
@@ -204,6 +205,7 @@ B向けの日本初SNSマーケティングサービスにおける新規開発�
 - Nginx
 - MySQL
 - PostgreSQL
+- Redis
 
 ## エディタ・IDE
 - VSCode
@@ -246,6 +248,7 @@ B向けの日本初SNSマーケティングサービスにおける新規開発�
 - dockle
 - Trivy
 - flyway
+- Docker
 
 ### Firebase
 - Firebase Auth
