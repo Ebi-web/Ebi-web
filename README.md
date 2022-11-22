@@ -9,8 +9,9 @@
 |Twitter|[@eng_toshiaki](https://twitter.com/eng_toshiaki)|
 |Qiita|[@EbiTT](https://qiita.com/EbiTT)|
 |Portfolio|[Google Slide](https://docs.google.com/presentation/d/1EE7jD9pdZupcJr4AZowyyCcpztgFQ-a3gUj2hbYslv8/edit?usp=sharing)|
-|英語力|TOEFL iBT93点(英検準１級相当)|
+|愛しているもの|技術・英語・カクテル|
 |好きな英語|イギリス英語🇬🇧|
+|好きなカクテル|ジャックローズ|
 |資格|応用情報技術者|
 
 ## ゆめみ(2022年10月)【クラウドアーキテクチャ・構築】
