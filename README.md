@@ -217,7 +217,7 @@ B向けの日本初SNSマーケティングサービスにおける新規開発�
 ### AWS
 - EC2
 - ECS Fargate
-- Application Lord Balancer
+- Application Load Balancer
 - RDS
 - Route53
 - ACM
