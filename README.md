@@ -14,6 +14,11 @@
 |好きなカクテル|ジャックローズ🍸|
 |資格|応用情報技術者|
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ebi-web&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href='https://github.com/anuraghazra/github-readme-stats'>
+  <img align='center' src='https://github-readme-stats.vercel.app/api?username=Ebi-web&count_private=true&show_icons=true&theme=tokyonight'>
+</a>
+
 ## ゆめみ(2022年10月)【クラウドアーキテクチャ・構築】
 
 ### 概要
@@ -258,9 +263,3 @@ B向けの日本初SNSマーケティングサービスにおける新規開発�
 ### Firebase
 - Firebase Auth
 </p>
-
-# My Status
-
-<a href='https://github.com/anuraghazra/github-readme-stats'>
-  <img align='center' src='https://github-readme-stats.vercel.app/api?username=Ebi-web&count_private=true&show_icons=true&theme=tokyonight'>
- </a>
