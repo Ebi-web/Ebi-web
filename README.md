@@ -195,6 +195,8 @@ B向けの日本初SNSマーケティングサービスにおける新規開発�
 - Bootstrap
 - PHPUnit
 - Node.js
+- tRPC
+- Prisma
 
 ## OS
 - Linux
